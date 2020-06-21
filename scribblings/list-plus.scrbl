@@ -7,7 +7,7 @@
 @(evaluator '(require list-plus (for-syntax racket/base)))
 
 @title{list-plus}
-@author+email["Sorawee Porncharoenwase" "sorawee.pwase@gmail.com"]
+@author[@author+email["Sorawee Porncharoenwase" "sorawee.pwase@gmail.com"]]
 
 @defmodule[list-plus]
 
