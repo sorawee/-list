@@ -6,3 +6,4 @@
 (define pkg-desc "A form that collects values into a list while supporting internal-definitions")
 (define version "0.0")
 (define pkg-authors '(sorawee))
+(define license '(Apache-2.0 OR MIT))
